@@ -10,4 +10,6 @@ Spark.
 status](https://github.com/konradzdeb/sparklyrExtras/workflows/R-CMD-check/badge.svg)](https://github.com/konradzdeb/sparklyrExtras/actions)
 [![Codecov test
 coverage](https://codecov.io/gh/konradzdeb/sparklyrExtras/branch/master/graph/badge.svg)](https://codecov.io/gh/konradzdeb/sparklyrExtras?branch=master)
+[![Travis build
+status](https://travis-ci.com/konradzdeb/sparklyrExtras.svg?branch=master)](https://travis-ci.com/konradzdeb/sparklyrExtras)
 <!-- badges: end -->
