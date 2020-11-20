@@ -1,4 +1,4 @@
-package sparklyrextras
+package dirsAndPaths
 
 object Main {
   def getDirectory() : String = {

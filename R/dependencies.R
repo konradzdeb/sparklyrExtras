@@ -3,7 +3,7 @@ spark_dependencies <- function(spark_version, scala_version, ...) {
     jars = c(
       system.file(
         sprintf("java/sparklyrextras-%s-%s.jar", spark_version, scala_version),
-        package = "sparklyrextras"
+        package = "sparklyrExtras"
       )
     ),
     packages = c(
