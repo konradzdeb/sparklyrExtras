@@ -1,7 +1,7 @@
 package sparklyrextras
 
 object Main {
-  def hello() : String = {
-    "Hello, world! - From Scala"
+  def getDirectory() : String = {
+    System.getProperty("user.dir")
   }
 }

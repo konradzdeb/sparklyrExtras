@@ -1,5 +1,5 @@
 #' @import sparklyr
 #' @export
-sparklyrextras_hello <- function(sc) {
-  sparklyr::invoke_static(sc, "sparklyrextras.Main", "hello")
+sparklyrextras_get_directory <- function(sc) {
+  sparklyr::invoke_static(sc, "sparklyrextras.Main", "getDirectory")
 }
