@@ -18,6 +18,7 @@ Depends:
 Imports:
   sparklyr
 Suggests: 
-    spelling
+    spelling,
+    covr
 Language: en-GB
 RoxygenNote: 7.1.1
