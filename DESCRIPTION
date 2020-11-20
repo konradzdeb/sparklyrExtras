@@ -19,6 +19,7 @@ Imports:
   sparklyr
 Suggests: 
     spelling,
-    covr
+    covr,
+    testthat
 Language: en-GB
 RoxygenNote: 7.1.1
