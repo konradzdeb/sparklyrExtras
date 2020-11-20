@@ -8,3 +8,7 @@
 sessionInfoLog
 ^\.github$
 ^codecov\.yml$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^\.travis\.yml$
