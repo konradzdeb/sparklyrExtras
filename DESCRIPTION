@@ -2,7 +2,7 @@ Package: sparklyrExtras
 Type: Package
 Title: sparklyrExtras provides a set of simple, unsophisticated convenience 
   functions for working with sparklyr
-Version: 0.0.0
+Version: 0.0.0.9000
 Authors@R: 
     c(person(given = "Zdeb",
              family = "Konrad",
