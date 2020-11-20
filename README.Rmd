@@ -1,5 +1,5 @@
 ---
-title: "Utility and Conveniance function for Working with sparklyr"
+title: "Utility and Convenience Functions for Working with Spark"
 output:
   github_document:
     fig_width: 9

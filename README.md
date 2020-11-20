@@ -1,4 +1,4 @@
-Utility and Conveniance function for Working with sparklyr
+Utility and Convenience Functions for Working with Spark
 ================
 
 *In development* collection of modest utility functions for working with
