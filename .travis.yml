@@ -8,3 +8,8 @@ deploy:
   provider: script
   script: Rscript -e 'pkgdown::deploy_site_github()'
   skip_cleanup: true
+  
+after_success:
+        - R CMD INSTALL .
+        - Rscript -e 'pkgdown::build_site()'
+        - Rscript -e 'library(covr); codecov()'
