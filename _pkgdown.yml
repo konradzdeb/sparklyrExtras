@@ -1,0 +1,5 @@
+title: sparklyrExtras
+
+template:
+  params:
+    bootswatch: cosmo
