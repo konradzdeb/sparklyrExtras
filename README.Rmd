@@ -6,28 +6,4 @@ output:
     fig_height: 5
 ---
 
-## Building
-
-First build this package, then build its jars by running:
-
-```{r eval=FALSE}
-sparklyr::compile_package_jars()
-```
-
-then build the R package as usual.
-
-## Getting Started
-
-Connect and test this package as follows:
-
-```{r}
-library(sparklyrExtras)
-library(sparklyr)
-sc <- spark_connect(master = "local")
-
-sparklyrextras_hello(sc)
-```
-
-```{r}
-spark_disconnect_all()
-```
+*In development* collection of modest utility functions for working with Spark.
