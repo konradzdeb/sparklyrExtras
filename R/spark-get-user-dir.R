@@ -9,6 +9,7 @@
 #' @import sparklyr
 #' @examples 
 #' \dontrun{
+#' # sc <- sparklyr::spark_connect(master = "local")
 #' spark_get_user_dir(sc)
 #' }
 #' @export
